@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="721808"
+   name=""
+   committed-date="2013-06-02T21:34:51.046072Z"
+   url="http://plugins.svn.wordpress.org/user-admin-simplifier/trunk"
+   last-author="adamsilverstein"
+   kind="dir"
+   uuid="b8457f37-d9ea-0310-8a92-e5e31aec5664"
+   revision="741353"/>
+<entry
+   committed-rev="619465"
+   name="uninstall.php"
+   text-time="2013-07-15T23:03:48.000000Z"
+   committed-date="2012-10-31T15:41:17.242477Z"
+   checksum="75c04c2ed9faa223229ba496d8e90a7c"
+   last-author="adamsilverstein"
+   kind="file"
+   prop-time="2013-07-15T23:03:48.000000Z"/>
+<entry
+   committed-rev="721808"
+   name="useradminsimplifier.php"
+   text-time="2013-07-15T23:03:48.000000Z"
+   committed-date="2013-06-02T21:34:51.046072Z"
+   checksum="2f6e1c8320aa98efe0cbd32ed1bd0eb2"
+   last-author="adamsilverstein"
+   kind="file"
+   prop-time="2013-07-15T23:03:48.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="721808"
+   name="readme.txt"
+   text-time="2013-07-15T23:03:48.000000Z"
+   committed-date="2013-06-02T21:34:51.046072Z"
+   checksum="70cfbbdce5732f8dada5b2f905ac0604"
+   last-author="adamsilverstein"
+   kind="file"
+   prop-time="2013-07-15T23:03:48.000000Z"/>
+</wc-entries>
